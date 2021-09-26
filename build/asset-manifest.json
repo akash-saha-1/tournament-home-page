@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.947eeb6a.chunk.css",
+    "main.js": "/static/js/main.fea8f86e.chunk.js",
+    "main.js.map": "/static/js/main.fea8f86e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2b388d62.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2b388d62.js.map",
+    "static/js/2.ada5b788.chunk.js": "/static/js/2.ada5b788.chunk.js",
+    "static/js/2.ada5b788.chunk.js.map": "/static/js/2.ada5b788.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.947eeb6a.chunk.css.map": "/static/css/main.947eeb6a.chunk.css.map",
+    "static/js/2.ada5b788.chunk.js.LICENSE.txt": "/static/js/2.ada5b788.chunk.js.LICENSE.txt",
+    "static/media/desktop-banner.470b9f3e.png": "/static/media/desktop-banner.470b9f3e.png",
+    "static/media/game-logos.df3d9252.png": "/static/media/game-logos.df3d9252.png",
+    "static/media/game-settings.cf9b0708.png": "/static/media/game-settings.cf9b0708.png",
+    "static/media/header-right.dbe6c0b7.PNG": "/static/media/header-right.dbe6c0b7.PNG",
+    "static/media/mobile-banner.b0f6a402.png": "/static/media/mobile-banner.b0f6a402.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b388d62.js",
+    "static/js/2.ada5b788.chunk.js",
+    "static/css/main.947eeb6a.chunk.css",
+    "static/js/main.fea8f86e.chunk.js"
+  ]
+}
